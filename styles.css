@@ -1,0 +1,20 @@
+body {
+    background-color: #F4D04E;
+    height: 100vh;
+}
+
+@font-face {
+    font-family: "FigTree";
+    src: url("/assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+    font-weight: 300 900; /* range supported by the variable font */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "FigTree";
+    src: url("/assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+    font-weight: 300 900; /* range supported by the variable font */
+    font-style: italic;
+    font-display: swap;
+}
