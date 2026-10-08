@@ -17,7 +17,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
     - [AI Collaboration](#ai-collaboration)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
